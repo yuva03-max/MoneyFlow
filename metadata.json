@@ -1,0 +1,6 @@
+{
+  "name": "MoneyFlow",
+  "description": "MoneyFlow is a modern AI-powered Money Expense Tracking Mobile App with a premium fintech UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
